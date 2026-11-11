@@ -1,0 +1,502 @@
+[
+    {
+        "title": "A Light in the Attic",
+        "price": "Â£51.77",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Tipping the Velvet",
+        "price": "Â£53.74",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Soumission",
+        "price": "Â£50.10",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Sharp Objects",
+        "price": "Â£47.82",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "price": "Â£54.23",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "The Requiem Red",
+        "price": "Â£22.65",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "The Dirty Little Secrets of Getting Your Dream Job",
+        "price": "Â£33.34",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "price": "Â£17.93",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "price": "Â£22.60",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "The Black Maria",
+        "price": "Â£52.15",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "price": "Â£13.99",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Shakespeare's Sonnets",
+        "price": "Â£20.66",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "Set Me Free",
+        "price": "Â£17.46",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price": "Â£52.29",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Rip it Up and Start Again",
+        "price": "Â£35.02",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "price": "Â£57.25",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Olio",
+        "price": "Â£23.88",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "price": "Â£37.59",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Libertarianism for Beginners",
+        "price": "Â£51.33",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "It's Only the Himalayas",
+        "price": "Â£45.17",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "In Her Wake",
+        "price": "Â£12.84",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "How Music Works",
+        "price": "Â£37.32",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+        "price": "Â£30.52",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Chase Me (Paris Nights #2)",
+        "price": "Â£25.27",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Black Dust",
+        "price": "Â£34.53",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Birdsong: A Story in Pictures",
+        "price": "Â£54.64",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+        "price": "Â£22.50",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Aladdin and His Wonderful Lamp",
+        "price": "Â£53.13",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Worlds Elsewhere: Journeys Around Shakespeareâs Globe",
+        "price": "Â£40.30",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Wall and Piece",
+        "price": "Â£44.18",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "price": "Â£17.66",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+        "price": "Â£31.05",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "The Elephant Tree",
+        "price": "Â£23.82",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "The Bear and the Piano",
+        "price": "Â£36.89",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Sophie's World",
+        "price": "Â£15.94",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Penny Maybe",
+        "price": "Â£33.29",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Maude (1883-1993):She Grew Up with the country",
+        "price": "Â£18.02",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "In a Dark, Dark Wood",
+        "price": "Â£19.63",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Behind Closed Doors",
+        "price": "Â£52.22",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "You can't bury them all: Poems",
+        "price": "Â£33.63",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Slow States of Collapse: Poems",
+        "price": "Â£57.31",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Reasons to Stay Alive",
+        "price": "Â£26.41",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Private Paris (Private #10)",
+        "price": "Â£47.61",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+        "price": "Â£23.11",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Without Borders (Wanderlove #1)",
+        "price": "Â£45.07",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "When We Collided",
+        "price": "Â£31.77",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "We Love You, Charlie Freeman",
+        "price": "Â£50.27",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Untitled Collection: Sabbath Poems 2014",
+        "price": "Â£14.27",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+        "price": "Â£44.18",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "Unicorn Tracks",
+        "price": "Â£18.78",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+        "price": "Â£25.52",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+        "price": "Â£16.28",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+        "price": "Â£31.12",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "This One Summer",
+        "price": "Â£19.49",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "Thirst",
+        "price": "Â£17.27",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "The Torch Is Passed: A Harding Family Story",
+        "price": "Â£19.09",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "The Secret of Dreadwillow Carse",
+        "price": "Â£56.13",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+        "price": "Â£56.41",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "The Past Never Ends",
+        "price": "Â£56.50",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "The Natural History of Us (The Fine Art of Pretending #2)",
+        "price": "Â£45.22",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "The Nameless City (The Nameless City #1)",
+        "price": "Â£38.16",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "The Murder That Never Was (Forensic Instincts #5)",
+        "price": "Â£54.11",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+        "price": "Â£42.96",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+        "price": "Â£23.89",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+        "price": "Â£16.77",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+        "price": "Â£20.59",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+        "price": "Â£37.13",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+        "price": "Â£56.06",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "The Death of Humanity: and the Case for Life",
+        "price": "Â£58.11",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+        "price": "Â£49.05",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "The Art Forger",
+        "price": "Â£40.76",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+        "price": "Â£19.73",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+        "price": "Â£32.24",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+        "price": "Â£41.83",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "Soul Reader",
+        "price": "Â£39.58",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Security",
+        "price": "Â£39.25",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+        "price": "Â£25.02",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+        "price": "Â£51.04",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Reskilling America: Learning to Labor in the Twenty-First Century",
+        "price": "Â£19.83",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+        "price": "Â£50.40",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+        "price": "Â£13.61",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+        "price": "Â£13.34",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "Pop Gun War, Volume 1: Gift",
+        "price": "Â£18.97",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+        "price": "Â£36.28",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Patience",
+        "price": "Â£10.16",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+        "price": "Â£15.44",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+        "price": "Â£48.41",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+        "price": "Â£46.35",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "On a Midnight Clear",
+        "price": "Â£14.07",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Obsidian (Lux #1)",
+        "price": "Â£14.86",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "My Paris Kitchen: Recipes and Stories",
+        "price": "Â£33.37",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Masks and Shadows",
+        "price": "Â£56.40",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+        "price": "Â£14.02",
+        "metadata": "Rating: Four"
+    },
+    {
+        "title": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+        "price": "Â£46.91",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+        "price": "Â£45.61",
+        "metadata": "Rating: Three"
+    },
+    {
+        "title": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+        "price": "Â£19.92",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Layered: Baking, Building, and Styling Spectacular Cakes",
+        "price": "Â£40.11",
+        "metadata": "Rating: One"
+    },
+    {
+        "title": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+        "price": "Â£53.90",
+        "metadata": "Rating: Two"
+    },
+    {
+        "title": "Join",
+        "price": "Â£35.67",
+        "metadata": "Rating: Five"
+    },
+    {
+        "title": "In the Country We Love: My Family Divided",
+        "price": "Â£22.00",
+        "metadata": "Rating: Four"
+    }
+]
